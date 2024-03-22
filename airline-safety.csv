@@ -1,0 +1,52 @@
+airline;avail seat km per week;incidents;fatal_accidents;Fatality Risk;incidents;"Total Flights (Million)
+
+";fatalities;Security Measures;Regulatory Compliance
+Aer Lingus;34578912;4;6;0.12;5;32.5;3;Pre-board screening;FAA
+Aeroflot*;112345778;77;12;0.13;6;43.4;87;Hold-baggage screening;EASA
+Aerolineas Argentinas;3332457;5;3;3.May;3;44.5;6;Non-passenger screening;FAA
+Aeromexico*;596881137;2;2;0.21;1;78.4;1;CCTV;FAA
+Air Canada;1865253820;4;0;0.23;3;34.5;5;Security Bollards;EASA
+Air France;3004002666;14;5;2.May;7;56.6;334;High-Security Bollards;EASA
+Air India*;869253555;6;1;3.Mar;7;56.7;157;Screening Technology;FAA
+Air New Zealand*;710174871;4;1;0.22;6;43.5;6;TSA Screens;EASA
+Alaska Airlines*;965346779;7;0;0.45;2;34.6;86;Air Marshal Program;EASA
+Alitalia;698012584;7;4;Feb.21;1;45.5;1;Border Security;FAA
+All Nippon Airways;1841234717;8;0;Mar.22;8;32.7;2;In-Flight Security;EASA
+American*;5228357403;23;6;1.Jan;16;23.Jun;414;Background checks;FAA
+Austrian Airlines;358239832;3;3;1.Feb;0;21.Aug;1;Vetting and Watchlists;EASA
+Avianca;396922635;7;5;Mar.23;1;56.5;0;Cybersecurity;FAA
+British Airways*;3179760959;2;1;Jan.34;7;89.5;1;Security traning;FAA
+Cathay Pacific*;2582459308;0;2;0.24;3;46.8;2;Cockpit Security;EASA
+China Airlines;813216487;14;7;3.May;2;78.9;223;Cargo Security;EASA
+Condor;417982610;4;0;2.May;1;56.7;1; security cooperation;EASA
+COPA;550491506;2;1;3.Apr;1;34.6;2;Reward programs;FAA
+Delta / Northwest*;6525658948;23;13;4.Jul;23;45.3;52;Regular rewievs;EASA
+Egyptair;557699892;9;4;Feb.82;3;65.4;13;Trained Canine Units;FAA
+El Al;335448032;2;2;Mar.56;1;66.4;4;Screening Enchanments;EASA
+Ethiopian Airlines;488560643;26;6;Jan.65;5;56.6;3;Biometric Authentication;FAA
+Finnair;506464950;2;1;Apr.56;2;67.9;93;Physical Security;EASA
+Garuda Indonesia;613356666;11;4;Feb.60;3;34.8;23;Strict Policies;FAA
+Gulf Air;301379763;1;2;Feb.21;3;49.6;142;Pre-flight information;EASA
+Hawaiian Airlines;1574217531;0;4;0.23;1;43.9;1;Regular rewievs;EASA
+Iberia;277414794;5;0;Jan.45;6;45.7;9;Screening Enchanments;FAA
+Japan Airlines;1874561773;4;5;Feb.72;2;23.Jun;1;Trained Canine Units;EASA
+Kenya Airways;1734522606;3;2;0.45;1;45.8;283;Reward programs;FAA
+KLM*;1734522605;6;5;Mar.56;2;76.6;4;Background checks;EASA
+Korean Air;1001965891;11;6;Apr.25;1;54.6;1;Security Bollards;FAA
+LAN Airlines;3426529540;4;4;2.Jan;4;65.7;3;Strict Policies;EASA
+Lufthansa*;1039171244;7;0;Feb.56;3;56.9;5;Screening Enchanments;FAA
+Malaysia Airlines;348563173;8;1;3.Apr;0;24.Jul;567;Pre-board screening;EASA
+Pakistan International;413007158;9;5;Feb.34;11;34.6;43;Security traning;FAA
+Philippine Airlines;1917428994;3;3;7.Apr;3;54.5;3;Air Marshal Program;EASA
+Qantas*;295705393;2;4;0.24;6;34.8;0;Air Marshal Program;FAA
+Royal Air Maroc;859673901;0;6;5.Feb;7;45.6;0;Regular rewievs;EASA
+SAS*;2376857850;5;0;1.Mar;13;67.8;112;Screening Technology;EASA
+Saudi Arabian;32558297;8;1;Mar.13;11;33.5;3;Strict Policies;FAA
+Singapore Airlines;792601299;3;3;Jun.13;3;78.00;56;Screening Technology;EASA
+South African;259373346;3;2;1,59;1;56.4;1;Screening Enchanments;FAA
+Southwest Airlines;1509195646;2;0;0.23;7;33.6;0;Security traning;EASA
+Sri Lankan / AirLanka;619130754;5;4;1.Apr;2;45.6;2;Air Marshal Program;FAA
+SWISS*;1702802250;4;3;Feb.29;3;10.Aug;0;Security Bollards;EASA
+TACA;1946098294;8;2;3.May;1;13.Jun;3;Screening Enhancements;FAA
+TAM;7139291912;7;3;9.Aug;7;67.8;188;Air Marshal Program;EASA
+TAP - Air Portugal;2455687878;0;0;6.Aug;1;89.7;0;Air Marshal Program;FAA
